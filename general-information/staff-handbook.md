@@ -32,7 +32,7 @@ description: >-
 * Begging/asking for Robux
 * Spamming on the group wall
 * Major admin abuse
-* Continously causing trouble/conflict
+* Continuously causing trouble/conflict
 * Causing drama
 
 ### Suspendable Offences:
@@ -42,7 +42,7 @@ description: >-
 * Not following a Higher Ranks orders \(unless it's ridiculous\)
 * Making up your own rules
 
-{% hint style="danger" %}
+{% hint style="info" %}
  **Important Note: Demoteable Offences can also be Suspendable Offences.**
 {% endhint %}
 

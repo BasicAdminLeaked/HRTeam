@@ -1,7 +1,8 @@
 ---
 description: >-
-  The policies and procedures described in this manual are set by the Corporate
-  Team and deemed necessary for successful operation.
+  This policy serves to provide clear communication to HR Team members when it
+  comes to what the corporate team looks for and requires for each promotion for
+  each rank.
 ---
 
 # Policy 02 - Promotion Requirements
@@ -37,7 +38,28 @@ description: >-
 * **Supervise the restaurant and ensure everything is running the way it should be while following our policies.**
 * **Maintain good activity and be a good role model for lower ranks.**
 * **Actively respond to people who post questions on the group wall and who submit “Restaurant Help” tickets on the Discord server.**
+* **Priority status given after 3 months.**
+
+**For Promotion from Communications Officer to Management Officer**
+
+* **Show true dedication and activity to the community.**
+* **Host training sessions regularly at least two \(2\) times a month.**
+* **Show that you have leadership skills.**
+* **Responds to Discord tickets when available.**
+* **Show that you are mature and act in a professional manner.**
+* **Go out of your way to help lower ranks or new members with any questions.**
 * **Priority status given after 2 months.**
+
+**For Promotion from Management Officer to Head Officer**
+
+* **Apply for the position when a Board of Directors+ is seeking interns for their team. Only apply for the team you wish to apply for as you cannot change it without being demoted back to the rank before Executive Intern.**
+* **Exhibit good qualities that are needed for the department you wish to join. This can be done either through shifts, training sessions, interview sessions, involvement within the community/team, or any management sub-teams you choose to join.**
+
+**For Promotion from Head Officer to Executive Intern**
+
+* **Apply for the position when a Vice President is seeking interns for their team. Only apply for the team you wish to apply for as you cannot change it without being demoted back to the rank before Executive Intern.**
+* **You may only be a management member in one other Roblox community/group. SizzleBurger must be your primary “Roblox Occupation.”**
+* **Exhibit good qualities that are needed for the department you wish to join. This can be done either through shifts, training sessions, involvement within the community/team, or any management sub-teams you choose to join.**
 
   
 
