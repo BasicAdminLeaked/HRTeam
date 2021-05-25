@@ -9,6 +9,12 @@ description: 'Welcome to the HR Team! Good job, now let''s catch you up.'
 ### Added
 
 * Staff Handbook
+* Staff Policies
+
+### Fixed
+
+* Spelling mistakes
+* Replaced some wording to simplify the text
 
 
 
