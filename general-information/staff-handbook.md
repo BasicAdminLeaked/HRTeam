@@ -8,7 +8,7 @@ description: >-
 
 ## Staff Rules
 
-### Demoteable Offences:
+### Demoteable Offences
 
 * Kicking or banning for no reason
 * Hosting without guide
@@ -26,7 +26,7 @@ description: >-
 * Shout abuse
 * Rank abuse
 
-### Expellable Offences:
+### Expellable Offences
 
 * Asking for your rank back after getting fired/demoted
 * Begging/asking for Robux
@@ -35,7 +35,7 @@ description: >-
 * Continuously causing trouble/conflict
 * Causing drama
 
-### Suspendable Offences:
+### Suspendable Offences
 
 * Bragging about your rank
 * Abusing your power
