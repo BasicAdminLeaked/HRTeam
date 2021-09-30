@@ -5,6 +5,7 @@
 ## 📄 General Information
 
 * [Staff Handbook](general-information/staff-handbook.md)
+* [Disciplinary Information](general-information/disciplinary-information.md)
 
 ## 🗂 ️Staff Policies
 
