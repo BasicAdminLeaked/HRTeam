@@ -1,5 +1,5 @@
 ---
-description: 'Welcome to the HR Team! Good job, now let''s catch you up.'
+description: Welcome to the HR Team! Good job, now let's catch you up.
 ---
 
 # 📋️ Introduction & Changelog
@@ -8,15 +8,17 @@ description: 'Welcome to the HR Team! Good job, now let''s catch you up.'
 
 ### Added
 
-* Staff Handbook
-* Staff Policies
+* Staff Notes \[2/22]
+* Staff Handbook \[06/21]
+* Staff Policies \[06/21]
+
+
 
 ### Fixed
 
-* Spelling mistakes
-* Replaced some wording to simplify the text
+* Spelling mistakes \[06/21]
+* Replaced some wording to simplify the text \[06/21]
 
 
 
 All changes were approved by a member of the corporate team.
-
