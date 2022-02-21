@@ -4,6 +4,7 @@
 
 ## 📄 General Information
 
+* [Staff Notes](general-information/staff-notes.md)
 * [Staff Handbook](general-information/staff-handbook.md)
 * [Disciplinary Information](general-information/disciplinary-information.md)
 
@@ -15,4 +16,3 @@
 * [Policy 04 - Account Safety](staff-policies/policy-04-account-safety.md)
 * [Policy 05 - Resignation Policy](staff-policies/untitled-5.md)
 * [Policy 06 - Leave of Absence](staff-policies/untitled-4.md)
-
